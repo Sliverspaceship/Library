@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Library SYSTEM "Library.dtd">
+<Library>
+<Book BookId="101">
+<Title>History</Title>
+<Author>wanghouxiong</Author>
+<Price>29rmb</Price>
+<Publisher>pk university</Publisher>
+<Cost>9rmb</Cost>
+</Book>
+<Memeber>
+<Name>
+<FirstNmae>wang</FirstNmae>
+<MiddleName>hou</MiddleName>
+<LastName>xiong</LastName>
+</Name>
+<Address>
+<HouseNumber>666</HouseNumber>
+<Street>bingjiang Road</Street>
+<City>hangzhou</City>
+</Address>
+</Memeber>
+</Library>
